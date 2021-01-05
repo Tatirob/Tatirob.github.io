@@ -1,0 +1,10 @@
+.woocommerce ul.products li.product .button {
+  color: #ffffff;
+  background-color: #080914;
+}
+
+.woocommerce div.product form.cart .button {
+  background-color: #171629;
+  font-style: italic;
+  font-variant: normal;
+}

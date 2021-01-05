@@ -1,0 +1,18 @@
+PROCESSED on Sun, 03 Jan 2021 09:14:07 +0000
+/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+/wp-includes/js/mediaelement/wp-mediaelement.min.css
+/wp-content/themes/brooklyn/css/flexslider.min.css
+/wp-content/themes/brooklyn/css/ut.portfolio.style.min.css
+/wp-content/plugins/ut-portfolio/assets/vendor/lightGallery/css/lightgallery.min.css
+/wp-content/plugins/ut-shortcodes/css/ut-responsive-grid.min.css
+/wp-content/plugins/ut-shortcodes/css/ut.animate.min.css
+/wp-content/themes/brooklyn/css/ut.elastislide.min.css
+/wp-content/themes/brooklyn/css/ut.shortcode.min.css
+/wp-content/plugins/js_composer/assets/css/js_composer.min.css
+/wp-content/plugins/ut-shortcodes/css/bklynicons/bklynicons.css
+/wp-content/themes/brooklyn/css/ut.vc.shortcodes.min.css
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+/wp-content/plugins/revslider/public/assets/css/rs6.css
+/wp-content/plugins/woocommerce/assets/css/select2.css
+/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css
+PROCESSED from http://localhost/bk/bk/?page_id=8545

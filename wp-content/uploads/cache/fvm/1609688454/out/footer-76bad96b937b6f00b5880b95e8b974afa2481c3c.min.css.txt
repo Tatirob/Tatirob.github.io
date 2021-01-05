@@ -1,0 +1,3 @@
+PROCESSED on Sun, 03 Jan 2021 15:48:19 +0000
+/wp-content/uploads/so-css/so-css-brooklyn.css
+PROCESSED from http://localhost/DEMOKD/DEMOKD/

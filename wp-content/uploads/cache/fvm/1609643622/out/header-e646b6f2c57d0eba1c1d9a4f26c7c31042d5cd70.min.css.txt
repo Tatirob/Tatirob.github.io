@@ -1,0 +1,14 @@
+PROCESSED on Sun, 03 Jan 2021 03:15:06 +0000
+/wp-content/plugins/woocommerce/assets/css/woocommerce.css
+/wp-content/plugins/yith-woocommerce-compare/assets/css/colorbox.css
+/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css
+/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css
+/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.css
+/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css
+/wp-content/themes/brooklyn/css/ut-fontface.min.css
+/wp-content/themes/brooklyn/css/font-awesome.min.css
+/wp-content/themes/brooklyn/css/ut-superfish.min.css
+/wp-content/themes/brooklyn/css/ut.brooklyn-shop.min.css
+/wp-content/themes/brooklyn/style.css
+/wp-content/themes/brooklyn/css/ut.theme.min.css
+PROCESSED from http://localhost/bk/bk/
